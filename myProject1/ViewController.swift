@@ -21,5 +21,11 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func handlePlayPauseTapped(_ sender: Any) {
+        
+        
+    }
+    
+    
 }
 
